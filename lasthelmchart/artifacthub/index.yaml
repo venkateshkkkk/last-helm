@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  lasthelmchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-25T16:14:27.6791118+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 5cd763cf93d71c77c624a5bdede9ea100490914c0383a193608aa667f168d666
+    name: lasthelmchart
+    type: application
+    urls:
+    - lasthelmchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-25T16:14:27.678062+05:30"
